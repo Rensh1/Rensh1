@@ -1,4 +1,10 @@
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td align="center" bgcolor="#DDE5D2">
+
+<br>
 
 👀
 
@@ -14,13 +20,31 @@
 　•　
 [💻 ATABOOK](https://rensh.atabook.org)
 
+<br>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 <div align="center">
 
+<table>
+<tr>
+<td bgcolor="#26352A">
+
+<font color="#F5F0E6">
+
 ### ✦ TAP SOMETHING ✦
+
+</font>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -54,17 +78,37 @@ Don't even question about it, aight...😭
 
 <br>
 
+<table>
+<tr>
+<td bgcolor="#E8DDC7">
+
 ### 🎮 Gaming
 
 Games, especially VN. Occasionally getting way too attached to Naegi...
+
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#DDE5D2">
 
 ### 📖 Novel
 
 I love fanfic and novels, especially when Naegi was in it.
 
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#B7A98A">
+
 ### 🎨 Art
 
 Drawing and making things that probably didn't need to exist.
+
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -91,13 +135,52 @@ Drawing and making things that probably didn't need to exist.
 
 ---
 
-## ✦ LINKS ✦
-
 <div align="center">
 
-| 🌐 | 🎨 | 💬 |
-|---|---|---|
-| [Website](https://rensh1.github.io/Rensh1/) | [Twitter](https://x.com/Ren_sh1) | [Strawpage](https://rensh1.straw.page) |
+<table>
+<tr>
+<td bgcolor="#A33A32">
+
+<font color="#FFFFFF">
+
+## ✦ LINKS ✦
+
+</font>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" bgcolor="#26352A">
+<font color="#F5F0E6">
+
+🌐  
+[Website](https://rensh1.github.io/Rensh1/)
+
+</font>
+</td>
+
+<td align="center" bgcolor="#B7A98A">
+
+🎨  
+[Twitter](https://x.com/Ren_sh1)
+
+</td>
+
+<td align="center" bgcolor="#DDE5D2">
+
+💬  
+[Strawpage](https://rensh1.straw.page)
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
