@@ -122,6 +122,6 @@ Drawing and making things that probably didn't need to exist.
 
 **thanks for visiting.**
 
-<sub>REN / SHI</sub>
+<sub>Good Bye</sub>
 
 </div>
