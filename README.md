@@ -4,7 +4,7 @@
 
 # Ren
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Welcome+to+my+little+corner;Main+interest%3A+Danganronpa;Currently+being+questionable...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;;Main+interest%3A+Danganronpa;HELP+ME...)](https://git.io/typing-svg)
 
 <img src="me.jpg" width="150">
 
