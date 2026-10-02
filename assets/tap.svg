@@ -1,0 +1,13 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="120" rx="22" fill="#26352A"/>
+<rect x="8" y="8" width="884" height="104" rx="18"
+fill="none" stroke="#B7A98A" stroke-width="3"/>
+
+<path d="M55 60 L75 40 L95 60 L75 80 Z" fill="#A33A32"/>
+<path d="M805 60 L825 40 L845 60 L825 80 Z" fill="#A33A32"/>
+
+<text x="450" y="72" text-anchor="middle"
+font-family="Courier New, monospace"
+font-size="38" font-weight="bold"
+fill="#F5F0E6">✦ TAP SOMETHING ✦</text>
+</svg>
