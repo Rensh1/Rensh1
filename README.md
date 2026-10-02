@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👀 REN / SHI
+# 👀
 
 **ENG / 中文 OK...?**
 
