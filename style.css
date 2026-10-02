@@ -1,0 +1,563 @@
+/* =========================
+   BASIC
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+
+    background: #faf8ff;
+    color: #3d3760;
+
+    line-height: 1.6;
+
+    transition: 0.3s;
+}
+
+
+/* =========================
+   NAVIGATION
+========================= */
+
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    height: 65px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 9%;
+
+    background: rgba(255, 255, 255, 0.85);
+
+    backdrop-filter: blur(12px);
+
+    border-bottom: 1px solid #eee7ff;
+}
+
+nav h2 {
+    color: #40366e;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-links a {
+    color: #40366e;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    transition: 0.2s;
+}
+
+.nav-links a:hover {
+    color: #8064d8;
+}
+
+#themeButton {
+    border: none;
+
+    background: #eee8ff;
+
+    width: 40px;
+    height: 40px;
+
+    border-radius: 50%;
+
+    cursor: pointer;
+
+    font-size: 18px;
+}
+
+
+/* =========================
+   HERO
+========================= */
+
+.hero {
+    min-height: 320px;
+
+    padding: 70px 12%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    background:
+        radial-gradient(
+            circle at 10% 20%,
+            #eee5ff,
+            transparent 30%
+        ),
+
+        radial-gradient(
+            circle at 90% 80%,
+            #e6ddff,
+            transparent 35%
+        ),
+
+        #f8f4ff;
+}
+
+.hero-text {
+    max-width: 650px;
+}
+
+.hero-text > p:first-child {
+    font-size: 22px;
+}
+
+.hero h1 {
+    font-size: clamp(50px, 9vw, 90px);
+
+    line-height: 1;
+
+    margin: 10px 0;
+
+    color: #533b91;
+}
+
+.subtitle {
+    font-size: 20px;
+
+    color: #666080;
+
+    margin-bottom: 25px;
+}
+
+#helloButton {
+    border: none;
+
+    background: #554092;
+
+    color: white;
+
+    padding: 13px 25px;
+
+    border-radius: 25px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 8px 20px
+        rgba(85, 64, 146, 0.25);
+
+    transition: 0.2s;
+}
+
+#helloButton:hover {
+    transform: translateY(-3px);
+}
+
+#helloMessage {
+    margin-top: 15px;
+
+    font-weight: bold;
+
+    color: #654fa0;
+}
+
+.hero-decoration {
+    font-size: 130px;
+
+    padding: 40px;
+
+    background: #eee5ff;
+
+    border-radius: 50%;
+}
+
+
+/* =========================
+   GENERAL SECTIONS
+========================= */
+
+section:not(.hero) {
+    padding: 80px 9%;
+}
+
+section h2 {
+    font-size: 42px;
+
+    color: #40366e;
+
+    margin-bottom: 25px;
+}
+
+.section-small {
+    font-size: 13px;
+
+    font-weight: bold;
+
+    letter-spacing: 3px;
+
+    color: #8c76d1;
+
+    margin-bottom: 5px;
+}
+
+
+/* =========================
+   ABOUT
+========================= */
+
+.about {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 60px;
+
+    background: white;
+}
+
+.about > div:first-child {
+    max-width: 550px;
+}
+
+.about p:not(.section-small) {
+    color: #68627f;
+
+    font-size: 18px;
+}
+
+.about-picture {
+    width: 300px;
+    height: 180px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 80px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #cbbcff,
+            #f6b7d9,
+            #a8c9ff
+        );
+
+    border-radius: 50px;
+
+    box-shadow:
+        0 15px 35px
+        rgba(100, 80, 160, 0.15);
+}
+
+
+/* =========================
+   INTERESTS
+========================= */
+
+.interests {
+    background: #f7f4ff;
+}
+
+.interest-container {
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 20px;
+}
+
+.interest-card {
+    padding: 30px;
+
+    background: white;
+
+    border: 1px solid #eee9ff;
+
+    border-radius: 18px;
+
+    text-align: center;
+
+    box-shadow:
+        0 10px 30px
+        rgba(75, 55, 130, 0.06);
+
+    transition: 0.25s;
+}
+
+.interest-card:hover {
+    transform: translateY(-8px);
+
+    box-shadow:
+        0 18px 35px
+        rgba(75, 55, 130, 0.12);
+}
+
+.interest-icon {
+    font-size: 55px;
+
+    margin-bottom: 10px;
+}
+
+.interest-card h3 {
+    color: #40366e;
+
+    font-size: 21px;
+}
+
+.interest-card p {
+    color: #77718b;
+
+    margin-top: 5px;
+}
+
+
+/* =========================
+   FRIENDS
+========================= */
+
+.friends {
+    background: white;
+}
+
+.friends-subtitle {
+    color: #77718b;
+
+    margin-top: -15px;
+
+    margin-bottom: 30px;
+}
+
+.friends-container {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 20px;
+}
+
+.friend-card {
+    padding: 25px;
+
+    text-align: center;
+
+    background: #faf8ff;
+
+    border: 1px solid #eee9ff;
+
+    border-radius: 18px;
+
+    transition: 0.25s;
+}
+
+.friend-card:hover {
+    transform: translateY(-7px);
+
+    background: #f2edff;
+}
+
+.friend-icon {
+    width: 75px;
+    height: 75px;
+
+    margin: auto auto 15px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    background: #e5dcff;
+
+    border-radius: 50%;
+
+    font-size: 42px;
+}
+
+.friend-card h3 {
+    color: #40366e;
+}
+
+.friend-card p {
+    color: #77718b;
+
+    font-size: 14px;
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    padding: 25px;
+
+    text-align: center;
+
+    background: #40395f;
+
+    color: white;
+}
+
+
+/* =========================
+   DARK MODE
+========================= */
+
+body.dark {
+    background: #171525;
+
+    color: #eee;
+}
+
+body.dark nav {
+    background: rgba(23, 21, 37, 0.9);
+
+    border-color: #302b45;
+}
+
+body.dark nav h2,
+body.dark .nav-links a {
+    color: #eee;
+}
+
+body.dark .hero {
+    background: #1c1930;
+}
+
+body.dark .hero h1,
+body.dark section h2 {
+    color: #ddd1ff;
+}
+
+body.dark .subtitle,
+body.dark .about p:not(.section-small) {
+    color: #bbb4d0;
+}
+
+body.dark .about,
+body.dark .friends {
+    background: #171525;
+}
+
+body.dark .interests {
+    background: #1c1930;
+}
+
+body.dark .interest-card,
+body.dark .friend-card {
+    background: #242039;
+
+    border-color: #332e4c;
+}
+
+body.dark .interest-card h3,
+body.dark .friend-card h3 {
+    color: #e0d7ff;
+}
+
+body.dark .interest-card p,
+body.dark .friend-card p,
+body.dark .friends-subtitle {
+    color: #aaa2c0;
+}
+
+body.dark .friend-card:hover {
+    background: #2b2645;
+}
+
+body.dark #themeButton {
+    background: #332e4c;
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 700px) {
+
+    nav {
+        padding: 0 20px;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .hero {
+        padding: 60px 25px;
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 40px;
+    }
+
+    .hero-decoration {
+        align-self: center;
+
+        font-size: 80px;
+
+        padding: 25px;
+    }
+
+    section:not(.hero) {
+        padding: 65px 25px;
+    }
+
+    section h2 {
+        font-size: 34px;
+    }
+
+    .about {
+        flex-direction: column;
+
+        align-items: flex-start;
+    }
+
+    .about-picture {
+        width: 100%;
+    }
+
+    .interest-container {
+        grid-template-columns: 1fr;
+    }
+
+    .friends-container {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+}
+
+@media (max-width: 450px) {
+
+    .friends-container {
+        grid-template-columns: 1fr;
+    }
+
+}
