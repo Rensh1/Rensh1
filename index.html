@@ -1,223 +1,433 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>👀</title>
+    <title>REN/SHI</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <!-- NAVIGATION -->
-    <nav>
-        <h2>👀</h2>
+    
+    <div class="scroll-progress" id="scrollProgress"></div>
 
-        <div class="nav-links">
-            <a href="#about">Info</a>
+    
+    <div class="background">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            👀 <span>WHO?</span>
+        </div>
+
+        <div class="nav-links" id="navLinks">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
             <a href="#interests">Interests</a>
             <a href="#friends">Friends</a>
         </div>
 
-        <button id="themeButton">🌙</button>
+        <button class="theme-button" id="themeButton">
+            ☾
+        </button>
+
+        <button class="menu-button" id="menuButton">
+            ☰
+        </button>
+
     </nav>
 
 
-    <!-- HERO -->
-    <section class="hero">
+    <main>
 
-        <div class="hero-text">
+        <section class="hero" id="home">
 
-            <p>Hello! I'm Ren</p>
+            <div class="hero-text">
 
-            <h1>Ren//Shi</h1>
-
-            <p class="subtitle">
-                Why the hell I'm doing this...
-            </p>
-
-            <button id="helloButton">
-                Say Hello to "ME" ☺️👋
-            </button>
-
-            <p id="helloMessage"></p>
-
-        </div>
-
-        <div class="hero-decoration">
-            
-        </div>
-
-    </section>
-
-
-    <!-- ABOUT -->
-    <section id="about" class="about">
-
-        <div>
-            <p class="section-small">ABOUT ME</p>
-
-            <h2>About Me</h2>
-
-            <p>
-                Hi! My name is <b>Ren</b>, you can also call me <b>Shi</b>.
-                [17 || ISTP || 9w1 - sp963 || Life Path 9].
-                I enjoy spending time with my friends and doing things that interest me.
-                I live in Southeast Asia, Indonesia [GMT+8].
-                I'm a low maintenance person and the type who treats others back according to how they treats me.
-                Mandarin and English is NOT my main or second language.
-                I'm pretty good in English i think, so I prefer to use English to communicate online,
-                even though my grammar is bad... (hope you can understand it tho, lol)
-                To be honest, I have no interest or purpose in living.
-                Just having fun and hope that I can spend my life helping those who need.
-                
-            </p>
-        </div>
-
-        <div class="about-picture">
-            📖
-        </div>
-
-    </section>
-
-
-    <!-- INTERESTS -->
-    <section id="interests" class="interests">
-
-        <p class="section-small">THINGS I LIKE (it's Makoto Naegi guys!!)</p>
-
-        <h2>My Interests</h2>
-
-        <div class="interest-container">
-
-            <div class="interest-card">
-                <div class="interest-icon">🎮</div>
-
-                <h3>Gaming</h3>
-
-                <p>
-                    -
-                </p>
-            </div>
-
-
-            <div class="interest-card">
-                <div class="interest-icon">🎵</div>
-
-                <h3>Music</h3>
-
-                <p>
-                    -
-                </p>
-            </div>
-
-
-            <div class="interest-card">
-                <div class="interest-icon">🎨</div>
-
-                <h3>Art</h3>
-
-                <p>
-                    -
-                </p>
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <!-- FRIENDS -->
-    <section id="friends" class="friends">
-
-        <p class="section-small">I REALLY LOVE NAEGI</p>
-
-        <h2>Friends</h2>
-
-        <p class="friends-subtitle">
-            People who make my days on PT
-        </p>
-
-        <div class="friends-container">
-
-
-            <!-- FRIEND 1 -->
-
-            <div class="friend-card">
-
-                <div class="friend-icon">
-                    🔆
+                <div class="status">
+                    <span></span>
+                    probably online
                 </div>
 
-                <h3>IIra (@canis-canem-edit)</h3>
+                <p class="hello">Hello! I'm</p>
 
-                <p>
-                    -
+                <h1>Ren/Shi</h1>
+
+                <p class="subtitle">
+                    Why the hell I'm doing this...
                 </p>
+
+                <button class="hello-button" id="helloButton">
+                    💬 Say Hello
+                </button>
 
             </div>
 
 
-            <!-- FRIEND 2 -->
+            <div class="hero-image-card">
 
-            <div class="friend-card">
+                <div class="image-tape"></div>
 
-                <div class="friend-icon">
-                    🔆
+                <img
+                    src="images/me.jpg"
+                    alt="A picture of Ren"
+                >
+
+                <div class="image-note">
+                    <strong>REN.EXE</strong>
+                    <br>
+                    status: alive
+                    <br>
+                    mood: questionable
                 </div>
 
-                <h3>Rei (@kissofdecay)</h3>
-
-                <p>
-                    -
-                </p>
-
             </div>
 
+        </section>
 
-            <!-- FRIEND 3 -->
 
-            <div class="friend-card">
+        <section class="quick-links">
 
-                <div class="friend-icon">
-                    🔆
+            <a href="#interests">
+                🎮
+                <span>Gaming</span>
+            </a>
+
+            <a href="#interests">
+                📖
+                <span>Novel</span>
+            </a>
+
+            <a href="#interests">
+                🎨
+                <span>Art</span>
+            </a>
+
+            <a href="#friends">
+                👥
+                <span>Friends</span>
+            </a>
+
+        </section>
+
+
+        <section class="section" id="about">
+
+            <div class="section-title">
+                <span>WHO AM I?</span>
+                <h2>About Me</h2>
+            </div>
+
+            <div class="about-grid">
+
+                <div class="about-text">
+
+                    <p>
+                        Hi! My name is <b>Ren</b>, and you can also call me
+                        <b>Shi</b>.
+                    </p>
+
+                    <p>
+                        I'm a pretty low-maintenance person. I treat "you"
+                        just like how "you" treated me.
+                    </p>
+
+                    <p>
+                        English, Mandarin, Arabic isn't my first language, so there might
+                        occasionally be some questionable grammar here.
+                        Don't even question about it, aight...😭
+                    </p>
+
+                    <div class="tags">
+
+                        <span>ISTP</span>
+                        <span>9w1</span>
+                        <span>sp/so</span>
+                        <span>963</span>
+
+                    </div>
+
                 </div>
 
-                <h3>Nia (@nortithacanon)</h3>
 
-                <p>
-                    -
-                </p>
+                <div class="terminal">
 
-            </div>
+                    <div class="terminal-top">
+                        <span>●</span>
+                        <span>●</span>
+                        <span>●</span>
+                        <strong>about_me.txt</strong>
+                    </div>
 
-            <!-- FRIEND 3 -->
-            
-            <div class="friend-card">
+                    <div class="terminal-body">
 
-                <div class="friend-icon">
-                    🔆
+                        <p>&gt; loading personality...</p>
+                        <p>&gt; done.</p>
+
+                        <br>
+
+                        <p>
+                            Name:
+                            <span>Ren</span>
+                        </p>
+
+                        <p>
+                            Alias:
+                            <span>Shi/Ien/Yen</span>
+                        </p>
+
+                        <p>
+                            Status:
+                            <span>alive</span>
+                        </p>
+
+                        <p>
+                            Brain:
+                            <span>questionable</span>
+                        </p>
+
+                        <br>
+
+                        <p>&gt; thanks for visiting.</p>
+
+                    </div>
+
                 </div>
 
-                <h3>Yunako (@盲蝶酱啊)</h3>
+            </div>
+
+        </section>
+
+
+        <!-- INTERESTS -->
+        <section class="section" id="interests">
+
+            <div class="section-title">
+
+                <span>THINGS I LIKE</span>
+
+                <h2>My Interests</h2>
 
                 <p>
-                    -
+                    Whatever that entertains me.
+                    (and also Naegi, ok).
                 </p>
 
             </div>
 
-        </div>
 
-    </section>
+            <div class="filter-buttons">
+
+                <button class="filter active" data-filter="all">
+                    All
+                </button>
+
+                <button class="filter" data-filter="games">
+                    🎮 Games
+                </button>
+
+                <button class="filter" data-filter="music">
+                    📖 Novel
+                </button>
+
+                <button class="filter" data-filter="art">
+                    🎨 Art
+                </button>
+
+            </div>
 
 
-    <!-- FOOTER -->
+            <div class="interest-grid">
+
+                <article class="interest-card" data-category="games">
+
+                    <div class="interest-icon">
+                        🎮
+                    </div>
+
+                    <h3>Gaming</h3>
+
+                    <p>
+                        Games, especially VN. Occasionally
+                        getting way too attached to Naegi...
+                    </p>
+
+                    <span class="card-arrow">→</span>
+
+                </article>
+
+
+                <article class="interest-card" data-category="music">
+
+                    <div class="interest-icon">
+                        📖
+                    </div>
+
+                    <h3>Novel</h3>
+
+                    <p>
+                        I love fanfic, especially when
+                        Naegi is dying in it...
+                    </p>
+
+                    <span class="card-arrow">→</span>
+
+                </article>
+
+
+                <article class="interest-card" data-category="art">
+
+                    <div class="interest-icon">
+                        🎨
+                    </div>
+
+                    <h3>Art</h3>
+
+                    <p>
+                        Drawing and making thing that
+                        probably didn't need to exist.
+                    </p>
+
+                    <span class="card-arrow">→</span>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <section class="section" id="friends">
+
+            <div class="section-title">
+
+                <span>ADDITIONAL</span>
+
+                <h2>Friends</h2>
+
+                <p>
+                    People who make my days better.
+                </p>
+
+            </div>
+
+
+            <div class="friends-grid">
+
+                <article class="friend-card">
+
+                    <div class="friend-avatar">
+                        🌟
+                    </div>
+
+                    <h3>IIra</h3>
+
+                    <p>@canis-canem-edit</p>
+
+                    <button class="friend-button">
+                        →
+                    </button>
+
+                </article>
+
+
+                <article class="friend-card">
+
+                    <div class="friend-avatar">
+                        🌟
+                    </div>
+
+                    <h3>Rei</h3>
+
+                    <p>@kissofdecay</p>
+
+                    <button class="friend-button">
+                        →
+                    </button>
+
+                </article>
+
+
+                <article class="friend-card">
+
+                    <div class="friend-avatar">
+                        🌟
+                    </div>
+
+                    <h3>Nia</h3>
+
+                    <p>@nortithacanon</p>
+
+                    <button class="friend-button">
+                        →
+                    </button>
+
+                </article>
+
+
+                <article class="friend-card">
+
+                    <div class="friend-avatar">
+                        🌟
+                    </div>
+
+                    <h3>Yunako</h3>
+
+                    <p>@盲蝶酱啊</p>
+
+                    <button class="friend-button">
+                        →
+                    </button>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <section class="currently">
+
+            <div>
+
+                <span>CURRENTLY</span>
+
+                <h2>What am I doing?</h2>
+
+                <p id="currentStatus">
+                    Alive.
+                </p>
+
+                <button id="changeStatus">
+                    Change status ↻
+                </button>
+
+            </div>
+
+            <div class="currently-symbol">
+                ☘
+            </div>
+
+        </section>
+
+    </main>
+
+
     <footer>
 
+        <div class="footer-logo">
+            👀
+        </div>
+
+        <p>
+        </p>
 
     </footer>
 
@@ -225,5 +435,4 @@
     <script src="script.js"></script>
 
 </body>
-
-  </html>
+    </html>
