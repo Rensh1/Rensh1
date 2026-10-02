@@ -1,14 +1,8 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#DDE5D2">
+<img src="assets/header.svg" width="100%">
 
 <br>
-
-👀
-
-# Ren
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Main+interest%3A+Danganronpa;HELP+ME...)](https://git.io/typing-svg)
 
@@ -20,7 +14,11 @@
 　•　
 [💻 ATABOOK](https://rensh.atabook.org)
 
-<br>
+<br><br>
+
+<img src="assets/tap.svg" width="80%">
+
+</div>
 
 </td>
 </tr>
@@ -143,7 +141,7 @@ Drawing and making things that probably didn't need to exist.
 
 <font color="#FFFFFF">
 
-## ✦ LINKS ✦
+<img src="assets/links.svg" width="55%">
 
 </font>
 
