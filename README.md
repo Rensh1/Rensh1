@@ -1,4 +1,6 @@
-## Test
+## Hi, I'm Ren!
+
+[✨ Visit my website ✨](https://rensh1.github.io/Rensh1/)
 
 <!--
 **Rensh1/Rensh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
