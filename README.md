@@ -149,7 +149,7 @@ Drawing and making things that probably didn't need to exist.
 <font color="#F5F0E6">
 
 🌐  
-[Website](https://rensh1.github.io/Rensh1/)
+[LIT.LINK](https://lit.link/en/rensh1)
 
 </font>
 </td>
@@ -157,14 +157,14 @@ Drawing and making things that probably didn't need to exist.
 <td align="center" bgcolor="#B7A98A">
 
 🎨  
-[Twitter](https://x.com/Ren_sh1)
+[TWITTER](https://x.com/Ren_sh1)
 
 </td>
 
 <td align="center" bgcolor="#DDE5D2">
 
 💬  
-[Strawpage](https://rensh1.straw.page)
+[STRAWPAGE](https://rensh1.straw.page)
 
 </td>
 
