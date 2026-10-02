@@ -46,7 +46,7 @@
 </div>
 
 <details>
-<summary>📖 INTRODUCTION</summary>
+<summary> INTRODUCTION</summary>
 
 <br>
 
