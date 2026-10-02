@@ -140,7 +140,7 @@ Drawing and making things that probably didn't need to exist.
 
 <font color="#FFFFFF">
 
-<img src="assets/links.svg" width="55%">
+<img src="assets/links.svg" width="500">
 
 </font>
 
