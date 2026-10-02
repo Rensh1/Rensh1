@@ -4,7 +4,7 @@
 
 **ENG / 中文 OK...?**
 
-<img src="images/me.jpg" width="150">
+<img src="me.jpg" width="150">
 
 <br><br>
 
