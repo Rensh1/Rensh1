@@ -71,7 +71,7 @@ Don't even question about it, aight...😭
 <br>
 
 <details>
-<summary>🎮 INTERESTS</summary>
+<summary> INTERESTS</summary>
 
 <br>
 
@@ -112,7 +112,7 @@ Drawing and making things that probably didn't need to exist.
 <br>
 
 <details>
-<summary>👥 FRIENDS</summary>
+<summary> FRIENDS</summary>
 
 <br>
 
