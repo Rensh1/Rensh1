@@ -216,7 +216,7 @@ Drawing Naegi and making things that probably didn't need to exist...
 
 <td align="center">
 
-<img src="assets/artworks/art1.jpg" width="100%">
+<img src="assets/artworks/art1.png" width="100%">
 
 </td>
 
