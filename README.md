@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="assets/tap.svg" width="80%">
+<img src="assets/tap_no_ren.gif" width="80%">
 
 <br>
 
@@ -149,7 +149,7 @@ Drawing Naegi and making things that probably didn't need to exist...
 
 <div align="center">
 
-<img src="assets/links.svg" width="500">
+<img src="assets/links_no_ren.gif" width="500">
 
 <br><br>
 
