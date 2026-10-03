@@ -36,7 +36,7 @@
 Hihi! My name is **Ren**, and you can also call me **Shi**.
 
 I'm a pretty low-maintenance person. I treat "you"
-just like how "you" treated me. I won't change a <b>thing</b>.
+just like how "you" treated me. I'll die this way and I won't change a <b>thing</b>.
 
 English, Mandarin, Arabic isn't my first language, so there might
 occasionally be some questionable grammar here.
