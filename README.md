@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?;..OMG,+I'm+So+Lonely...+Anyways-)](https://git.io/typing-svg)
 
+<br>
+
 <img src="me.jpg" width="150">
 
 <br><br>
@@ -14,24 +16,17 @@
 
 <img src="assets/tap.svg" width="80%">
 
+<br>
+
+</div>
+
 ---
 
 <div align="center">
 
 <table>
 <tr>
-<td bgcolor="#26352A">
-
-<font color="#F5F0E6">
-
-
-</font>
-
-</td>
-</tr>
-</table>
-
-</div>
+<td align="center">
 
 <details>
 <summary> INTRODUCTION</summary>
@@ -41,7 +36,7 @@
 Hihi! My name is **Ren**, and you can also call me **Shi**.
 
 I'm a pretty low-maintenance person. I treat "you"
-just like how "you" treated me. I have no purpose in life, I'll die this way and I wont change a <b>thing</b>.
+just like how "you" treated me. I won't change a <b>thing</b>.
 
 English, Mandarin, Arabic isn't my first language, so there might
 occasionally be some questionable grammar here.
@@ -56,7 +51,19 @@ Don't even question about it, aight...😭
 
 </details>
 
-<br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 <details>
 <summary> INTERESTS</summary>
@@ -65,31 +72,27 @@ Don't even question about it, aight...😭
 
 <table>
 <tr>
-<td bgcolor="#E8DDC7">
+<td align="center">
 
 ### 🎮 Gaming
 
 Games, especially VN. Occasionally getting way too attached to Naegi...
 
 </td>
-</tr>
 
-<tr>
-<td bgcolor="#DDE5D2">
+<td align="center">
 
 ### 📖 Novel
 
-I love fanfic and novels, especially when Naegi was in it.
+I love fanfic and novels, especially when Naegi was in it...
 
 </td>
-</tr>
 
-<tr>
-<td bgcolor="#B7A98A">
+<td align="center">
 
 ### 🎨 Art
 
-Drawing and making things that probably didn't need to exist.
+Drawing Naegi and making things that probably didn't need to exist...
 
 </td>
 </tr>
@@ -97,7 +100,19 @@ Drawing and making things that probably didn't need to exist.
 
 </details>
 
-<br>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 <details>
 <summary> FRIENDS</summary>
@@ -107,57 +122,55 @@ Drawing and making things that probably didn't need to exist.
 ⭐ **IIra**  
 [@canis-canem-edit](https://github.com/canis-canem-edit)
 
+<br>
+
 ⭐ **Rei**  
 [@kissofdecay](https://github.com/kissofdecay)
 
+<br>
+
 ⭐ **Nia**  
 [@nortithacanon](https://github.com/nortithacanon)
+
+<br>
 
 ⭐ **Yunako**  
 [No_Github]
 
 </details>
 
----
-
-<div align="center">
-
-<table>
-<tr>
-<td bgcolor="#A33A32">
-
-<font color="#FFFFFF">
-
-<img src="assets/links.svg" width="500">
-
-</font>
-
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/links.svg" width="500">
+
+<br><br>
 
 <table>
 <tr>
 
-<td align="center" bgcolor="#26352A">
-<font color="#F5F0E6">
+<td align="center">
 
 🌐  
 [LIT.LINK](https://lit.link/en/rensh1)
 
-</font>
 </td>
 
-<td align="center" bgcolor="#B7A98A">
+<td align="center">
 
 🎨  
 [TWITTER](https://x.com/Ren_sh1)
 
 </td>
 
-<td align="center" bgcolor="#DDE5D2">
+<td align="center">
 
 💬  
 [STRAWPAGE](https://rensh1.straw.page)
@@ -170,6 +183,8 @@ Drawing and making things that probably didn't need to exist.
 </div>
 
 ---
+
+<div align="center">
 
 <details>
 <summary>☘ CURRENTLY</summary>
@@ -184,14 +199,54 @@ Drawing and making things that probably didn't need to exist.
 
 </details>
 
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### ✦ ARTWORKS ✦
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="assets/artworks/art1.jpg" width="100%">
+
+</td>
+
+<td align="center">
+
+<img src="assets/artworks/art2.jpg" width="100%">
+
+</td>
+
+<td align="center">
+
+<img src="assets/artworks/art3.jpg" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+</div>
+
 ---
 
 <div align="center">
 
 ### 👀
 
-**thanks for visiting.**
+**thanks for visiting**
 
-<sub>Good Bye</sub>
+<sub>Goodbye.</sub>
 
 </div>
