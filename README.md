@@ -179,9 +179,9 @@ I'm pretty good at this, maybe...
 
 • Inda, Gin, and Juli
 
-• May, Shio, Harui, Soybean, and Akefia
-
 • Win and Ciel
+
+• May, Shio, Harui, Soybean, and Akefia
 
 • Rin, Ipi, Naka, Kary, and Ducky
 
