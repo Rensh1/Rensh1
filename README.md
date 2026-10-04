@@ -37,7 +37,7 @@ Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien**.
 
 I'm a pretty low-maintenance person. I also forget things easily, especially when it comes to remembering names. 
 
-Even though I surrounded by many people sometimes, I still feel lonely... oh well let's put that aside. I like being surrounded by people okay, it's just me who feels that way so please don't mind it (sorry that's kinda selfish, lmao).
+Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it (sorry that's kinda selfish, lmao).
 
 I rarely talk or show my true feelings to anyone, I'm the type who keeps it to myself.
 (Don't take it too serious. I mean yeah why should I tell anyone about my problem tho...)
