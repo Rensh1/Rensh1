@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?;..gng,+I'm+So+Lonely....+Anyways—)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?%3F)](https://git.io/typing-svg)
 
 <br>
 
@@ -33,13 +33,15 @@
 
 <br>
 
-Hihi! My name is **Ren**, and you can also call me **Shi**.
+Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien**.
 
-I'm a pretty low-maintenance person. I treat "you"
-just like how "you" treated me. I'll die this way and I won't change a <b>thing</b>.
+I'm a pretty low-maintenance person. I'm also forget things easily, especially when it comes to remembering names. 
+Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people aight, it's just me who feels that way so please don't mind it (sorry that kinda selfish, lmao).
+I have no purpose in life, just doing what I want. I treat people equally, I'll treat "you" just like how "you" treated me. I'll die this way and I won't change a thing.
 
-English, Mandarin, Arabic isn't my first language, so there might
-occasionally be some questionable grammar here.
+I don't mind if people vent to me. It's just that I'm not good at confronting, so that's kind of awkward...
+
+English, Mandarin, and Arabic, isn't my first nor second language, so there might occasionally be some questionable grammar here.
 
 Don't even question about it, aight...😭
 
@@ -47,7 +49,7 @@ Don't even question about it, aight...😭
 
 **Aliases:** Shi / Ien
 
-**Type:** ISTP · 9w1 · sp/so · 963
+**Type:** Sagittarius · ISTP · 9w1 · 963
 
 </details>
 
@@ -76,7 +78,7 @@ Don't even question about it, aight...😭
 
 ### 🎮 Gaming
 
-Games, especially VN. Occasionally getting way too attached to Naegi...
+Games, especially visual novel. Occasionally getting way too attached to Naegi.
 
 </td>
 
@@ -84,7 +86,7 @@ Games, especially VN. Occasionally getting way too attached to Naegi...
 
 ### 📖 Novel
 
-I love fanfic and novels, especially when Naegi was in it...
+I love fanfic and novels, especially when Naegi was dying in it.
 
 </td>
 
@@ -92,7 +94,7 @@ I love fanfic and novels, especially when Naegi was in it...
 
 ### 🎨 Art
 
-Drawing Naegi and making things that probably didn't need to exist...
+Drawing and making things that probably didn't need to exist.
 
 </td>
 </tr>
