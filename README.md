@@ -191,7 +191,7 @@ Drawing Naegi and making things that probably didn't need to exist...
 
 <br>
 
-> probably online
+> probably online...yo, be my friend now!!
 
 **REN**
 
