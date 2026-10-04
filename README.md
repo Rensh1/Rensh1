@@ -10,7 +10,7 @@
 
 <br><br>
 
-[💻 ATABOOK](https://rensh.atabook.org)
+[💻 ATABOOK!](https://rensh.atabook.org)
 
 <br><br>
 
@@ -26,23 +26,24 @@
 
 <table>
 <tr>
-<td align="center">
+<td>
 
 <details>
-<summary> INTRODUCTION</summary>
+<summary align="center">INTRODUCTION</summary>
 
 <br>
 
 Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien**.
 
-I'm a pretty low-maintenance person. I also forget things easily, especially when it comes to remembering names. 
+I'm a pretty low-maintenance person. I also the type whi forget things easily, especially when it comes to remembering names...
 
-Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.                        (Err, sorry that's kinda selfish, lmao)
+Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.
+(Err, sorry that's kinda selfish, lmao)
 
-I rarely talk or show my true feelings to anyone, I'm the type who keeps it to myself.              
-(WAIT don't take it too serious.. I mean yeah why should I tell anyone about my problem tho...help)
+I rarely talk or show my true feelings to anyone, I'm the type who keeps it to myself.
+(Don't take it too srs..! I can take it on my own)
 
-I have no purpose in life and just doing what I want. I treat people equally, I'll treat "you" just like how "you" treated me. I'll die this way and I won't change a thing.
+I treat people equally, I'll treat "you" just like how "you" treated me.
 
 I don't mind if people vent to me. It's just that I'm not good at comforting and..that's just kind of awkward, epecially if you demanding me to comfort you...
 
@@ -70,20 +71,21 @@ Don't even question any of it, aight...😭
 
 <table>
 <tr>
-<td align="center">
+<td>
 
 <details>
-<summary> INTERESTS</summary>
+<summary align="center">INTERESTS</summary>
 
 <br>
 
 <table>
 <tr>
+
 <td align="center">
 
 ### 🎮 Gaming
 
-Games, especially visual novel. Occasionally getting way too attached to Naegi.
+I enjoy lot of games, list on my [Strawpage!](https://rensh1.straw.page)
 
 </td>
 
@@ -91,7 +93,7 @@ Games, especially visual novel. Occasionally getting way too attached to Naegi.
 
 ### 📖 Novel
 
-I love fanfic and novels, especially when Naegi was dying in it.
+I love reading fanfics // novels.
 
 </td>
 
@@ -99,9 +101,10 @@ I love fanfic and novels, especially when Naegi was dying in it.
 
 ### 🎨 Art
 
-Drawing and making things that probably didn't need to exist.
+I'm pretty good at this, maybe...
 
 </td>
+
 </tr>
 </table>
 
@@ -119,30 +122,52 @@ Drawing and making things that probably didn't need to exist.
 
 <table>
 <tr>
-<td align="center">
+<td>
 
 <details>
-<summary> FRIENDS</summary>
+<summary align="center">FRIENDS</summary>
 
 <br>
 
-⭐ **IIra**  
+<table>
+<tr>
+
+<td width="50%">
+
+**1. IIra**  
 [@canis-canem-edit](https://github.com/canis-canem-edit)
 
 <br>
 
-⭐ **Rei**  
+**2. Rei**  
 [@kissofdecay](https://github.com/kissofdecay)
 
 <br>
 
-⭐ **Nia**  
+**3. Nia**  
 [@nortithacanon](https://github.com/nortithacanon)
+
+</td>
+
+<td width="50%">
+
+**4. Yunako**  
+[No_Github]
 
 <br>
 
-⭐ **Yunako**  
-[No_Github]
+**5. i forgot**  
+&nbsp;
+
+<br>
+
+**6. i forgot**  
+&nbsp;
+
+</td>
+
+</tr>
+</table>
 
 </details>
 
@@ -198,7 +223,7 @@ Drawing and making things that probably didn't need to exist.
 
 <br>
 
-> probably online...yo, be my friend now!!
+> probably online... yo, be my friend now!!!
 
 **REN**
 
