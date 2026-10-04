@@ -171,21 +171,21 @@ I'm pretty good at this, maybe...
 
 ### Respectfully Mentioning...
 
-• Ana, Mif, Nina, Khal
+• Ana, Mif, Nina, and Khal
 
-• MS friend group (13 people)
+• MS friend group (13p)
 
-• HS friend group (8 people)
+• HS friend group (8p)
 
-• Wnd, Gin, Juli
+• Wnd, Gin, and Juli
 
 • Win and Ciel
 
-• Shio, May, Harui, Soybean, Akefia
+• May, Shio, Harui, Soybean, and Akefia
 
-• Rin, Ipi, Naka, Ducky, Kary
+• Rin, Ipi, Naka, Kary, and Ducky
 
-• Everyone on my friendlist.
+• Everyone on my PT friendlist.
 
 I'll probably add more things here eventually...
 
