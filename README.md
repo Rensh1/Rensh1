@@ -132,35 +132,35 @@ I'm pretty good at this, maybe...
 
 <td width="50%">
 
-**1. IIra**  
-[@canis-canem-edit](https://github.com/canis-canem-edit)
+**1. Yunako**  
+[RedNote]()
 
 <br>
 
-**2. Rei**  
-[@kissofdecay](https://github.com/kissofdecay)
+**2. IIra**  
+[GitHub](https://github.com/canis-canem-edit)
 
 <br>
 
-**3. Nia**  
-[@nortithacanon](https://github.com/nortithacanon)
+**3. Rei**  
+[GitHub](https://github.com/kissofdecay)
 
 </td>
 
 <td width="50%">
 
-**4. Yunako**  
-[No_Github]
+**4. Nia**  
+[GitHub](https://github.com/nortithacanon)
 
 <br>
 
-**5. i forgot**  
-&nbsp;
+**5. Rudy**  
+[GitHub](https://github.com/thendisnigh)
 
 <br>
 
-**6. i forgot**  
-&nbsp;
+**6. Abby**  
+[GitHub](https://github.com/abbyyzzz)
 
 </td>
 
