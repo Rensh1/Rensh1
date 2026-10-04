@@ -35,13 +35,13 @@
 
 Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien**.
 
-I'm a pretty low-maintenance person. I'm also forget things easily, especially when it comes to remembering names. 
+I'm a pretty low-maintenance person. I rarely talk or show my true feelings to anyone, cuz I'm the type who keeps it to myself. I also forget things easily, especially when it comes to remembering names. 
 
-Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people aight, it's just me who feels that way so please don't mind it (sorry that kinda selfish, lmao).
+Even though I surrounded by many people sometimes, I still feel lonely... but let's put that aside. I like being surrounded by people aight, it's just me who feels that way so please don't mind it (sorry that's kinda selfish, lmao).
 
 I have no purpose in life, just doing what I want. I treat people equally, I'll treat "you" just like how "you" treated me. I'll die this way and I won't change a thing.
 
-I don't mind if people vent to me. It's just that I'm not good at confronting, so that's kind of awkward...
+I don't mind if people vent to me. It's just that I'm not good at confronting, and..that's just kind of awkward...
 
 English, Mandarin, and Arabic, isn't my first nor second language, so there might occasionally be some questionable grammar here.
 
