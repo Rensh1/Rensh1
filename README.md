@@ -10,7 +10,7 @@
 
 <br><br>
 
-[💻 ATABOOK!](https://rensh.atabook.org)
+[SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
 
 <br><br>
 
