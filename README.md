@@ -185,7 +185,7 @@ I'm pretty good at this, maybe...
 
 • Rin, Ipi, Naka, Kary, and Ducky
 
-• Everyone on my PT friendlist and those who c+h
+• Everyone on my friendlist and those who c+h
 
 I'll probably add more things here eventually...
 
