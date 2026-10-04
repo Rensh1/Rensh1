@@ -167,8 +167,29 @@ I'm pretty good at this, maybe...
 </tr>
 </table>
 
-</details>
+<br>
 
+### Respectfully Mentioning...
+
+• Ana, Mif, Nina, Khal
+
+• MS friend group (13 people)
+
+• HS friend group (8 people)
+
+• Wnd, Gin, Juli
+
+• Win and Ciel
+
+• Shio, May, Harui, Soybean, Akefia
+
+• Ipi, Naka, Ducky, Kary, "i forgot"
+
+• Everyone in my friendlist.
+
+I'll probably add more things here eventually...
+
+</details>
 </td>
 </tr>
 </table>
