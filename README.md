@@ -132,34 +132,34 @@ I'm pretty good at this, maybe...
 
 <td width="50%">
 
-**1. 盲蝶酱啊**  
+**盲蝶酱啊**  
 [RedNote](https://xhslink.cn/m/1ZfNU51wwfr)
 
 <br>
 
-**2. IIra**  
+**1. IIra**  
 [GitHub](https://github.com/canis-canem-edit)
 
 <br>
 
-**3. Rei**  
+**2. Rei**  
 [GitHub](https://github.com/kissofdecay)
 
 </td>
 
 <td width="50%">
 
-**4. Nia**  
+**3. Nia**  
 [GitHub](https://github.com/nortithacanon)
 
 <br>
 
-**5. Rudy**  
+**4. Rudy**  
 [GitHub](https://github.com/thendisnigh)
 
 <br>
 
-**6. Abby**  
+**5. Abby**  
 [GitHub](https://github.com/abbyyzzz)
 
 </td>
