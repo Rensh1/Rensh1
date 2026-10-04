@@ -183,7 +183,7 @@ I'm pretty good at this, maybe...
 
 • Shio, May, Harui, Soybean, Akefia
 
-• Ipi, Naka, Ducky, Kary, "i forgot"
+• Rin, Ipi, Naka, Ducky, Kary
 
 • Everyone on my friendlist.
 
