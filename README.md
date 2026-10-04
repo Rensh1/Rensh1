@@ -185,7 +185,7 @@ I'm pretty good at this, maybe...
 
 • Ipi, Naka, Ducky, Kary, "i forgot"
 
-• Everyone in my friendlist.
+• Everyone on my friendlist.
 
 I'll probably add more things here eventually...
 
