@@ -171,19 +171,9 @@ I'm pretty good at this, maybe...
 
 ### Respectfully Mentioning...
 
-• Ana, Mif, Nina, and Khal
+• May, Shio, Harui, Win, and Ciel
 
-• MS friend group (13p)
-
-• HS friend group (8p)
-
-• Inda, Gin, and Juli
-
-• Win and Ciel
-
-• May, Shio, Harui, Soybean, and Akefia
-
-• Rin, Ipi, Naka, Kary, and Ducky
+• Soybean, Akeifa, Naka, Kary, and Ducky
 
 • Everyone on my friendlist and those who c+h
 
