@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?;..OMG,+I'm+So+Lonely...+Anyways-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?;..gng,+I'm+So+Lonely....+Anyways—)](https://git.io/typing-svg)
 
 <br>
 
