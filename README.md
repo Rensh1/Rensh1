@@ -177,11 +177,11 @@ I'm pretty good at this, maybe...
 
 • HS friend group (8p)
 
-• Wnd, Gin, and Juli
-
-• Win and Ciel
+• Inda, Gin, and Juli
 
 • May, Shio, Harui, Soybean, and Akefia
+
+• Win and Ciel
 
 • Rin, Ipi, Naka, Kary, and Ducky
 
