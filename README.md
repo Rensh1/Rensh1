@@ -263,13 +263,13 @@ I'll probably add more things here eventually...
 
 <td align="center">
 
-<img src="assets/artworks/art2.jpg" width="100%">
+<img src="assets/artworks/art2.png" width="100%">
 
 </td>
 
 <td align="center">
 
-<img src="assets/artworks/art3.jpg" width="100%">
+<img src="assets/artworks/art3.png" width="100%">
 
 </td>
 
