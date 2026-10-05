@@ -41,17 +41,17 @@ I treat people equally, I'll treat "you" just like how "you" treated me.
 
 Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.
 
-(Sorry that's kinda selfish, lmao)
+I don't mind if people vent to me. It's just that I'm not good at comforting and...that's just kind of awkward, epecially if you demanding me to comfort you...
 
-I don't mind if people vent to me. It's just that I'm not good at comforting and..that's just kind of awkward, epecially if you demanding me to comfort you...
+(sorry, this is all pretty selfish of me, lmao)
 
-English, Mandarin, and Arabic, isn't my first nor second language, so there might occasionally be some questionable grammar here.
+And as you know that English, Mandarin, and Arabic isn't my first nor second language, so there might occasionally be some questionable grammar here.
 
 Don't even question any of it, aight...😭
 
 <br>
 
-**Aliases:** Shi / Ien
+**Aliases:** Shi / Ien (i'en)
 
 **Type:** Sagittarius · ISTP · 9w1 · 963
 
@@ -175,7 +175,7 @@ I'm pretty good at this, maybe...
 
 • Soybean, Akeifa, Naka, Kary, and Ducky
 
-• Everyone on my friendlist and those who c+h
+• Everyone on my friendlist and those who c+h ♥
 
 I'll probably add more things here eventually...
 
