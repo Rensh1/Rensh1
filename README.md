@@ -12,8 +12,6 @@
 
 <sub> CURRENTLY WORKING ON... </sub>
 
-<br><br>
-
 <img src="Untitled57.png" width="80%">
 
 </td>
@@ -21,10 +19,7 @@
 </table>
 
 <br><br>
-
 [BTW, SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
-
-<br><br>
 
 <img src="assets/tap_no_ren.gif" width="80%">
 
