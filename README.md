@@ -286,8 +286,8 @@ I'll probably add more things here eventually...
 
 ### 👀
 
-**thanks for reading**
+**main ships {dgrp}: Naemai (Naezono), Tonae (Naegami), Naeshima, Naegiri, Komanae, Naekusaba**
 
-<sub>Goodbye.</sub>
+<sub>thanks for reading.</sub>
 
 </div>
