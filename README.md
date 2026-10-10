@@ -10,11 +10,11 @@
 <tr>
 <td align="center">
 
-<sub>• CURRENTLY WORKING ON... •</sub>
+<sub> CURRENTLY WORKING ON... </sub>
 
 <br><br>
 
-<img src="me.jpg" width="100%">
+<img src="Untitled57.png" width="100%">
 
 </td>
 </tr>
