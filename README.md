@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="Untitled57.png" width="100%">
+<img src="Untitled57.png" width="80%">
 
 </td>
 </tr>
@@ -22,7 +22,7 @@
 
 <br><br>
 
-[SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
+[BTW, SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
 
 <br><br>
 
