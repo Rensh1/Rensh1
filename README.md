@@ -22,8 +22,6 @@
 <br><br>
 [BTW, SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
 
-<img src="assets/tap_no_ren.gif" width="80%">
-
 <br>
 
 </div>
@@ -195,8 +193,6 @@ I'll probably add more things here eventually...
 ---
 
 <div align="center">
-
-<img src="assets/links_no_ren.gif" width="500">
 
 <br><br>
 
