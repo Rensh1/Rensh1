@@ -39,23 +39,23 @@
 
 <br>
 
-Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien**.
+Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien** (i'en). 
 
-I'm a pretty low-maintenance person. I'm the type who keeps my problem to myself. I also the type who forget things easily, especially when it comes to remembering names... sorry if I forgot your name more than once.
+I'm a pretty low-maintenance person. I also the type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once.
 
 I treat people equally, I'll treat "you" just like how "you" treated me.
 
 Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it...
 
-(sorry, this is all pretty selfish of me, lmao)
+(sorry, that's pretty selfish of me, lmao)
 
-And as you know that English, Mandarin, and Arabic isn't my first nor second language, so there might occasionally be some questionable grammar here.
+And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here.
 
 Don't even question any of it, aight...😭
 
 <br>
 
-**Aliases:** Shi / Ien (i'en)
+**Aliases:** Shi / Ien
 
 **Type:** Sagittarius · ISTP · 9w1 · 963
 
@@ -87,7 +87,7 @@ Don't even question any of it, aight...😭
 
 ### 🎮 Gaming
 
-I enjoy lot of games, list on my [Strawpage!](https://rensh1.straw.page)
+I enjoy lot of games, especially VN
 
 </td>
 
@@ -103,7 +103,7 @@ I love reading fanfics // novels.
 
 ### 🎨 Art
 
-I'm pretty good at this, maybe...
+I'm pretty good at this, I think...
 
 </td>
 
@@ -177,9 +177,7 @@ I'm pretty good at this, maybe...
 
 • May, Shio, Harui, Win, and Ciel
 
-• Soybean, Akeifa, Naka, Kary, and Ducky
-
-• Everyone on my friendlist and those who c+h ♥
+• Everyone on my friendlist ♥ and those who c+h
 
 I'll probably add more things here eventually...
 
@@ -230,15 +228,15 @@ I'll probably add more things here eventually...
 <div align="center">
 
 <details>
-<summary>☘ CURRENTLY</summary>
+<summary>☘</summary>
 
 <br>
 
-> probably online... yo, be my friend now!!!
+> probably online... yo, let's be friend now!!!
 
 **REN**
 
-`status: Alive`
+`status: —`
 
 </details>
 
@@ -288,7 +286,7 @@ I'll probably add more things here eventually...
 
 ### 👀
 
-**thanks for visiting**
+**thanks for reading**
 
 <sub>Goodbye.</sub>
 
