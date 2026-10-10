@@ -3,6 +3,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?%3F)](https://git.io/typing-svg)
+<img src="assets/header.gif" width="80%">
 
 <br>
 
