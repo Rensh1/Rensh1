@@ -45,11 +45,10 @@ I'm a pretty low-maintenance person. I also the type who forget things easily, e
 
 I treat people equally, I'll treat "you" just like how "you" treated me.
 
-Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it...
-
+Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.... <br>
 (sorry, that's pretty selfish of me, lmao)
 
-And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here.
+And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
 Don't even question any of it, aight...😭
 
@@ -281,12 +280,14 @@ I'll probably add more things here eventually...
 </div>
 
 ---
-
 <div align="center">
 
 ### 👀
 
-**main ships {dgrp}: Naemai (Naezono), Tonae (Naegami), Naeshima, Naegiri, Komanae, Naekusaba**
+**Main ships: <br>
+Naemai(Naezono) // Tonae(Naegami) // <br>
+Naeshima(Naejunko) // Naegiri // <br>
+Komaegi // Naekusaba**
 
 <sub>thanks for reading.</sub>
 
