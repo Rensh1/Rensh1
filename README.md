@@ -10,7 +10,7 @@
 <tr>
 <td align="center">
 
-<sub>✦ CURRENTLY WORKING ON... ✦</sub>
+<sub>• CURRENTLY WORKING ON... •</sub>
 
 <br><br>
 
@@ -51,9 +51,7 @@ I'm a pretty low-maintenance person. I'm the type who keeps my problem to myself
 
 I treat people equally, I'll treat "you" just like how "you" treated me.
 
-Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.
-
-I don't mind if people vent to me. It's just that I'm not good at comforting and...that's just kind of awkward, epecially if you demanding me to comfort you...
+Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it...
 
 (sorry, this is all pretty selfish of me, lmao)
 
