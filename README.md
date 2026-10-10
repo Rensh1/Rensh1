@@ -6,7 +6,19 @@
 
 <br>
 
-<img src="me.jpg" width="150">
+<table align="center" width="100%">
+<tr>
+<td align="center">
+
+<sub>✦ CURRENTLY WORKING ON... ✦</sub>
+
+<br><br>
+
+<img src="me.jpg" width="100%">
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
