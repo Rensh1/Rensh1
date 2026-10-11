@@ -255,7 +255,7 @@ I'll probably add more things here eventually...
 
 <td align="center">
 
-<img src="assets/artworks/art1.png" width="100%">
+<img src="assets/artworks/art1.png" width="90%">
 
 </td>
 
