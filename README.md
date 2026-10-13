@@ -238,13 +238,12 @@ I'll probably add more things here eventually...
 `status: —`
 
 <div align="center">
-<sub>you might find me in the Danganronpa area<br>
+<sub> > you might find me in the Danganronpa area < <br>
 (near the tree, or the torches)</sub><br>
-
+📍<br>
 <img src="Area.png" width="60%">
-
 <div align="center">
-<sub>The Vampire Togami: IIra </sub>
+<sub>The Vampire Togami is IIra.</sub>
   
 </details>
 
