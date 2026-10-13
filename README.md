@@ -20,7 +20,7 @@
 </table>
 
 <br><br>
-[BTW, SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
+[SEND ME ART GIMMICKS HERE!](https://rensh1.straw.page/paint)
 
 <br>
 
