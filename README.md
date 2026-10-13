@@ -39,7 +39,7 @@
 
 <br>
 
-Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien** (i'en). Btw, those are all my real nicknames.
+Hihi! My name is **Ren**, you can also call me **Shi** or **Ien**. Btw, those are all my real nicknames.
 
 I'm a pretty low-maintenance person. I also the type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once.
 
@@ -53,7 +53,7 @@ Don't even question any of it, aight...😭
 
 <br>
 
-**Aliases:** Shi / Ien
+**Aliases:** Shi / Ien (i'en)
 
 **Type:** Sagittarius · ISTP · 9w1 · 963
 
