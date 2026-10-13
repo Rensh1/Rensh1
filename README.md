@@ -237,6 +237,11 @@ I'll probably add more things here eventually...
 
 `status: —`
 
+<div align="center">
+<sub>You might find me in the Danganronpa area<br>
+(around the tree, or the torches)</sub><br>
+<img src="Area.png" width="60%">
+
 </details>
 
 </div>
