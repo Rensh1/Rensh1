@@ -39,13 +39,13 @@
 
 <br>
 
-Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien** (i'en). 
+Hihi! My name is **Ren**, and you can also call me **Shi** or **Ien** (i'en). Btw, those are all my real nicknames, so call me whatever you like.
 
 I'm a pretty low-maintenance person. I also the type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once.
 
 I treat people equally, I'll treat "you" just like how "you" treated me.
 
-Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.... (sorry, that's pretty selfish of me, lmao)
+Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.... (sorry, that's pretty selfish of me, lmao).
 
 And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
@@ -132,6 +132,7 @@ I'm pretty good at this, I think...
 <table>
 <tr>
 
+<div align="center">
 <td width="50%">
 
 **Yunako**  
@@ -230,7 +231,7 @@ I'll probably add more things here eventually...
 
 <br>
 
-> probably online... yo, let's be friend now!!!
+> probably online... yo, let's be friends now!!!
 
 **REN**
 
@@ -283,13 +284,13 @@ I'll probably add more things here eventually...
 
 ### 👀
 
-I'm a multishipper, but uhh...
+I'm a multishipper, these are my favorites:
 
-**Main ships: <br>
-Naemai(Naezono) // Tonae(Naegami) // <br>
-Naeshima(Naejunko) // Naegiri // <br>
+**Main ships [Danganronpa]: <br>
+Naemai (Naezono) // Tonae (Naegami) // <br>
+Naeshima (Naejunko) // Naegiri // <br>
 Komaegi // Naekusaba**
 
-<sub>thanks for reading.</sub>
+<sub>anyways...! thanks for reading my page (lol).</sub>
 
 </div>
