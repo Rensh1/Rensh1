@@ -49,13 +49,13 @@ Even though I surrounded by many people (sometimes), I still feel lonely... but 
 
 And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
-Don't even question any of it, aight...😭
+<sub>{do not take life too seriously, you will never get out of it alive}</sub>
 
 <br>
 
 **Aliases:** Shi / Ien (i'en)
 
-**Type:** Sagittarius · ISTP · 9w1 · 963
+**Type:** Sagittarius · ISTP · 9w1 · sp/so963
 
 </details>
 
