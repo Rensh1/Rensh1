@@ -45,7 +45,7 @@ I'm a pretty low-maintenance person. I also the type who forget things easily, e
 
 I treat people equally, I'll treat "you" just like how "you" treated me.
 
-Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people okay, it's just my hearts who feels that way so please don't mind it.... (sorry, that's pretty selfish of me, lmao).
+Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people, it's just my hearts who feels that way so please don't mind it.... (sorry, that's pretty selfish of me, lmao).
 
 And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
