@@ -85,7 +85,7 @@ Don't even question any of it, aight...😭
 
 ### 🎮 Gaming
 
-I enjoy lot of games, especially VN
+I enjoy lot of games, especially VN.
 
 </td>
 
@@ -140,29 +140,29 @@ I'm pretty good at this, I think...
 
 <br>
 
-**1. IIra**  
+**IIra**  
 [GitHub](https://github.com/canis-canem-edit)
 
 <br>
 
-**2. Rei**  
+**Rei**  
 [GitHub](https://github.com/kissofdecay)
 
 </td>
 
 <td width="50%">
 
-**3. Nia**  
+**Nia**  
 [GitHub](https://github.com/nortithacanon)
 
 <br>
 
-**4. Rudy**  
+**Rudy**  
 [GitHub](https://github.com/thendisnigh)
 
 <br>
 
-**5. Abby**  
+**Abby**  
 [GitHub](https://github.com/abbyyzzz)
 
 </td>
@@ -238,10 +238,14 @@ I'll probably add more things here eventually...
 `status: —`
 
 <div align="center">
-<sub>You might find me in the Danganronpa area<br>
-(around the tree, or the torches)</sub><br>
+<sub>you might find me in the Danganronpa area<br>
+(near the tree, or the torches)</sub><br>
+
 <img src="Area.png" width="60%">
 
+<div align="center">
+<sub>The Vampire Togami: IIra </sub>
+  
 </details>
 
 </div>
