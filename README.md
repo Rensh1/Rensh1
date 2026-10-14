@@ -146,7 +146,7 @@ I'm pretty good at this, I think...
 <br>
 
 **Rei**  
-[GitHub](https://github.com/kissofdecay)
+[GitHub](https://github.com/silencedlove)
 
 </td>
 
