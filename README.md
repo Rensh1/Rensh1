@@ -299,6 +299,9 @@ Naemai (Naezono) // Tonae (Naegami) // <br>
 Naeshima (Naejunko) // Naegiri // <br>
 Komaegi // Naekusaba**
 
+**Main ships [Saint Seiya]: <br>
+Kouna (Kōga x Yuna)**
+
 <sub>anyways...! thanks for reading my page (lol).</sub>
 
 </div>
