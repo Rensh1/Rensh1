@@ -299,7 +299,7 @@ Naeshima (Naejunko) // Naegiri // <br>
 Komaegi // Naekusaba**
 
 **Main ships [Other Series]: <br>
-Kōga x Yuna || Rover x Shorekeeper ||<br>
+Kōga x Yuna || Rover x Shorekeeper ||** <br>
 
 <sub>anyways...! thanks for reading my page (lol).</sub>
 
