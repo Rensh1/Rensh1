@@ -174,7 +174,7 @@ I'm pretty good at this, I think...
 
 ### Respectfully Mentioning...
 
-• May, Shio, Jamie, and Aru
+• May, Shio, Jamie, and Aru <br>
 • Everyone on my friendlist and those who c+h♪
 
 I'll probably add more things here eventually...
@@ -242,7 +242,7 @@ I'll probably add more things here eventually...
 📍<br>
 <img src="Area.png" width="60%">
 <div align="center">
-<sub>The Vampire Togami is IIra.</sub>
+<sub>(Me and IIra)</sub>
   
 </details>
 
