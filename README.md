@@ -49,7 +49,7 @@ Even though I surrounded by many people (sometimes), I still feel lonely... but 
 
 And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
-<sub>initiating, experimenting, intensifying, integrating, bonding, differentiating, circumscribing, stagnating, avoiding terminating</sub>
+<sub>initiating, experimenting, intensifying, integrating, bonding, differentiating, circumscribing, stagnating, avoiding, terminating</sub>
 <br>
 
 **Aliases:** Shi / Len / Yen / Ien (i'en)
