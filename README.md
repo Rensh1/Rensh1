@@ -53,7 +53,7 @@ And as you know that English, Mandarin, and Arabic isn't my first or second lang
 
 <br>
 
-**Aliases:** Shi / Ien (i'en)
+**Aliases:** Shi / Len / Yen / Ien (i'en)
 
 **Type:** Sagittarius · ISTP · 9w1 · sp/so963
 
@@ -174,9 +174,8 @@ I'm pretty good at this, I think...
 
 ### Respectfully Mentioning...
 
-• May, Shio, Harui, Win, and Ciel
-
-• Everyone on my friendlist ♥ and those who c+h
+• May, Shio, Jamie, and Aru
+• Everyone on my friendlist and those who c+h♪
 
 I'll probably add more things here eventually...
 
@@ -299,8 +298,8 @@ Naemai (Naezono) // Tonae (Naegami) // <br>
 Naeshima (Naejunko) // Naegiri // <br>
 Komaegi // Naekusaba**
 
-**Main ships [Saint Seiya]: <br>
-Kouna (Kōga x Yuna)**
+**Main ships [Other Series]: <br>
+Kōga x Yuna || Rover x Shorekeeper ||<br>
 
 <sub>anyways...! thanks for reading my page (lol).</sub>
 
