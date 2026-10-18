@@ -290,7 +290,7 @@ I'll probably add more things here eventually...
 
 ### 👀
 <sub>meet my cuties <3</sub> <br>
-<img src="tonae.png" width="60%">
+<img src="tonae.jpg" width="60%">
 
 ---
 
