@@ -289,21 +289,26 @@ I'll probably add more things here eventually...
 <div align="center">
 
 ### 👀
-<sub>meet my cuties <3</sub> <br>
+<details>
+<summary></summary>
+
 <img src="tonae.jpg" width="60%">
+</details>
 
 ---
 
 I'm a multishipper, these are my favorites:
 
 **Main ships [Danganronpa]: <br>
-Naemai (Naezono) // Tonae (Naegami) // <br>
-Naeshima (Naejunko) // Naegiri // <br>
-Komaegi // Naekusaba**
+<sub>Naemai (Naezono) // Tonae (Naegami)<br>
+Naeshima (Naejunko) // Naegiri <br>
+Komaegi // Naekusaba**</sub>
 
 **Main ships [Other Series]: <br>
-Kōga x Yuna || Rover x Shorekeeper** <br>
+<sub>Kōga x Yuna || Rover x Shorekeeper**</sub>
 
-<sub>anyways...! thanks for reading my page (lol).</sub>
+---
+
+<sub>anyways.. that's all! thanks for reading my page this far (lol).</sub>
 
 </div>
