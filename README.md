@@ -289,6 +289,10 @@ I'll probably add more things here eventually...
 <div align="center">
 
 ### 👀
+<sub>meet my cuties <3</sub> <br>
+<img src="tonae.png" width="60%">
+
+---
 
 I'm a multishipper, these are my favorites:
 
