@@ -13,7 +13,7 @@
 
 <sub> CURRENTLY WORKING ON... </sub>
 
-<img src="Untitled42_20261026232337" width="60%">
+<img src="wip.png" width="60%">
 
 </td>
 </tr>
