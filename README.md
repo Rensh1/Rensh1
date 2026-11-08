@@ -13,7 +13,7 @@
 
 <sub> CURRENTLY WORKING ON... </sub>
 
-<img src="wip.png" width="60%">
+<img src="Wip.png" width="60%">
 
 </td>
 </tr>
@@ -41,13 +41,11 @@
 
 Hihi! My name is **Ren**, you can also call me **Shi** or **Ien**. Btw, those are all my real nicknames.
 
-I'm a pretty low-maintenance person. I have no interest or purpose in living, I'll die that way and I wouldn't change a thing. I also the type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once.
+I'm a pretty low-maintenance person. I have no interest or purpose in living, I'll die that way and I wouldn't change a thing.
 
-I treat people equally, I'll treat "you" just like how "you" treated me.
+I'mthe type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once. I treat people equally, I'll treat "you" just like how "you" treated me.
 
-Even though I surrounded by many people (sometimes), I still feel lonely... but let's put that aside. I like being surrounded by people, it's just my hearts who feels that way so please don't mind it.... (sorry, that's pretty selfish of me, lmao).
-
-And as you know that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
+And as you know, that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
 <sub>initiating, experimenting, intensifying, integrating, bonding, differentiating, circumscribing, stagnating, avoiding, terminating</sub>
 <br>
@@ -82,9 +80,9 @@ And as you know that English, Mandarin, and Arabic isn't my first or second lang
 
 <td align="center">
 
-### 🎮 Gaming
+### 🎮 Game
 
-I enjoy lot of games, especially VN.
+-
 
 </td>
 
@@ -92,7 +90,7 @@ I enjoy lot of games, especially VN.
 
 ### 📖 Novel
 
-I love reading fanfics // novels.
+-
 
 </td>
 
@@ -100,7 +98,7 @@ I love reading fanfics // novels.
 
 ### 🎨 Art
 
-I'm pretty good at this, I think...
+-
 
 </td>
 
@@ -173,9 +171,9 @@ I'm pretty good at this, I think...
 
 ### Respectfully Mentioning...
 
-• May, Shio, Jamie, and Aru <br>
+• May, Shio, Jamie, Aru, and C <br>
 • Everyone on my friendlist and those who c+h♪
-
+<sub>i'm usually in offline mode</sub><br>
 I'll probably add more things here eventually...
 
 </details>
