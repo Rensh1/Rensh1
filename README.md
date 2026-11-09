@@ -71,57 +71,6 @@ And as you know, that English, Mandarin, and Arabic isn't my first or second lan
 <td>
 
 <details>
-<summary align="center">INTERESTS</summary>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🎮 Game
-
--
-
-</td>
-
-<td align="center">
-
-### 📖 Novel
-
--
-
-</td>
-
-<td align="center">
-
-### 🎨 Art
-
--
-
-</td>
-
-</tr>
-</table>
-
-</details>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<details>
 <summary align="center">FRIENDS</summary>
 
 <br>
