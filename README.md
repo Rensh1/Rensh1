@@ -43,7 +43,7 @@ Hihi! My name is **Ren**, you can also call me **Shi** or **Ien**. Btw, those ar
 
 I'm a pretty low-maintenance person. I have no interest or purpose in living, I'll die that way and I wouldn't change a thing.
 
-I'mthe type who forget things easily, especially when it comes to remembering names... I'm really sorry if I forgot your name more than once. I treat people equally, I'll treat "you" just like how "you" treated me.
+I'm the type who forget things easily, especially when it comes to remembering names. I'm really sorry if I forgot your name more than once... I'll treat people equally, I'll treat "you" just like how "you" treated me.
 
 And as you know, that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
 
@@ -121,7 +121,7 @@ And as you know, that English, Mandarin, and Arabic isn't my first or second lan
 ### Respectfully Mentioning...
 
 • May, Shio, Jamie, Aru, and C <br>
-• Everyone on my friendlist and those who c+h♪
+• Everyone on my friendlist and those who c+h♪<br>
 <sub>i'm usually in offline mode</sub><br>
 I'll probably add more things here eventually...
 
@@ -176,15 +176,15 @@ I'll probably add more things here eventually...
 
 <br>
 
-> probably online... yo, let's be friends now!!!
+> probably online... yo, let's be friends!! 
 
 **REN**
 
 `status: —`
 
 <div align="center">
-<sub> > you might find me in the Danganronpa area < <br>
-(near the tree, or the torches)</sub><br>
+<sub> > you might find me in the Danganronpa Area - Safe Server < <br>
+(near the tree, or torches)</sub><br>
 📍<br>
 <img src="Area.png" width="60%">
 <div align="center">
@@ -200,7 +200,7 @@ I'll probably add more things here eventually...
 
 <br>
 
-### ✦ ARTWORKS ✦
+### • ARTWORKS •
 
 <br>
 
@@ -210,7 +210,9 @@ I'll probably add more things here eventually...
 <td align="center">
 
 <img src="assets/artworks/art1.png" width="90%">
-
+<div align="center">
+<sub>(2025)</sub>
+  
 </td>
 
 <td align="center">
