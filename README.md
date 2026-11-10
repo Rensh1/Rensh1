@@ -39,18 +39,18 @@
 
 <br>
 
-Hihi! My name is **Ren**, you can also call me **Shi** or **Ien**. Btw, those are all my real nicknames.
+Hihi! My name is **Ren**, you can also call me **Shi** or **Len**. Btw, those are all my real nicknames.
 
 I'm a pretty low-maintenance person. I have no interest or purpose in living, I'll die that way and I wouldn't change a thing.
 
-I'm the type who forget things easily, especially when it comes to remembering names. I'm really sorry if I forgot your name more than once... I'll treat people equally, I'll treat "you" just like how "you" treated me.
+I'm the type who forget things easily, especially when it comes to remembering names. I'm really sorry if I forgot your name more than once... I'll try to treat people equally, I'll treat "you" just like how "you" treated me.
 
-And as you know, that English, Mandarin, and Arabic isn't my first or second language, so there might occasionally be some questionable grammar here. <br>
+English and Mandarin isn't my first or my second language, so there might occasionally be some questionable grammar here. <br>
 
-<sub>initiating, experimenting, intensifying, integrating, bonding, differentiating, circumscribing, stagnating, avoiding, terminating</sub>
+<sub>-</sub>
 <br>
 
-**Aliases:** Shi / Len / Yen / Ien (i'en)
+**Aliases:** Shi // Len // Yen // Ien (i'en)
 
 **Type:** Sagittarius · ISTP · 9w1 · sp/so963
 
@@ -121,8 +121,9 @@ And as you know, that English, Mandarin, and Arabic isn't my first or second lan
 ### Respectfully Mentioning...
 
 • May, Shio, Jamie, Aru, and C <br>
-• Everyone on my friendlist and those who c+h♪<br>
-<sub>i'm usually in offline mode</sub><br>
+• Everyone on my friendlist and those who c+h ♪<br>
+
+<sub>Btw, I'm usually in offline mode</sub><br>
 I'll probably add more things here eventually...
 
 </details>
@@ -172,19 +173,16 @@ I'll probably add more things here eventually...
 <div align="center">
 
 <details>
-<summary>☘</summary>
+<summary>‼️</summary>
 
 <br>
 
-> probably online... yo, let's be friends!! 
-
-**REN**
+> probably online right now... yo, let's be friends!! 
 
 `status: —`
 
 <div align="center">
-<sub> > you might find me in the Danganronpa Area - Safe Server < <br>
-(near the tree, or torches)</sub><br>
+<sub> Danganronpa Area - Safe Server 1 <br>
 📍<br>
 <img src="Area.png" width="60%">
 <div align="center">
@@ -237,11 +235,10 @@ I'll probably add more things here eventually...
 ---
 <div align="center">
 
-### 👀
 <details>
 <summary></summary>
 
-<img src="tonae.jpg" width="60%">
+<img src="Plush.png" width="60%">
 </details>
 
 ---
@@ -258,6 +255,6 @@ Komaegi // Naekusaba**</sub>
 
 ---
 
-<sub>anyways.. that's all! thanks for reading my page this far (lol).</sub>
+<sub>Anyway... I think that's all! Thank you for reading my page this far... (lol)</sub>
 
 </div>
