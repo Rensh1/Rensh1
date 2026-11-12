@@ -47,7 +47,9 @@ I'm the type who forget things easily, especially when it comes to remembering n
 
 English and Mandarin isn't my first or my second language, so there might occasionally be some questionable grammar here. <br>
 
-<sub>-</sub>
+<sub>如果我让你觉得不舒服了请说我道歉非常快。<br>
+能理解英语和中文,其他语言会使用翻译器。<br>
+所以别想着用其它语言来骂我了喵我听得懂。</sub>
 <br>
 
 **Aliases:** Shi // Len // Yen // Ien (i'en)
