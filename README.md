@@ -2,8 +2,9 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ENG+%2F+中文+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?%3F)](https://git.io/typing-svg)
-<img src="assets/header.gif" width="80%">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1000&color=C9DCB3&center=true&vCenter=true&width=435&lines=ENG+%2F+%E4%B8%AD%E6%96%87+OK...%3F;Can+You+Tell+That+I+Love+Naegi...?%3F" alt="Typing SVG">
+</a>
 
 <br>
 
