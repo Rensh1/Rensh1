@@ -26,7 +26,7 @@
 
 <td align="center">
   
-<img src="Wip∆.png" width="100%">
+<img src="Wip2.png" width="100%">
 
 </td>
 
