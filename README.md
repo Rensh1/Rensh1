@@ -14,12 +14,21 @@
 <br>
 
 <table align="center" width="100%">
-<tr>
-<td align="center">
 
 <sub> CURRENTLY WORKING ON... </sub>
 
+<tr>
+<td align="center">
+  
 <img src="Wip.png" width="60%">
+
+</td>
+
+<td align="center">
+  
+<img src="Wip2.png" width="60%">
+
+</td>
 
 </td>
 </tr>
