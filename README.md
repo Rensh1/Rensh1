@@ -20,13 +20,13 @@
 <tr>
 <td align="center">
   
-<img src="Wip.png" width="60%">
+<img src="Wip.png" width="65%">
 
 </td>
 
 <td align="center">
   
-<img src="Wip2.png" width="60%">
+<img src="Wip∆.png" width="100%">
 
 </td>
 
