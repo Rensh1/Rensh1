@@ -68,7 +68,7 @@ English and Mandarin isn't my first or my second language, so there might occasi
 <br>
 
 <sub>**November 24, 2008** (Year of The Rat)</sub> <br>
-**Aliases:** Shi // Len // Yen // I'en)<br>
+**Aliases:** Shi // Len // Yen // I'en<br>
 **Type:** Sagittarius · ISTP · 9w1 · sp/so963
 
 </details>
